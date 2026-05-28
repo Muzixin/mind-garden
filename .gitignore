@@ -1,0 +1,23 @@
+# Qoder CLI 本地状态与设置(全部忽略)
+.qoder/
+
+# Obsidian 全部本地配置(各机器不同,不入库)
+.obsidian/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 临时
+*.tmp
+*.log
+*.html
+
+# 私密
+*.env
+*.local
